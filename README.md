@@ -1,6 +1,6 @@
 # Battery Report Generator and Parser
 
-This Python script generates a battery report using `powercfg` and parses it to display relevant information such as report date, time, designed capacity, full charge capacity, and battery health percentage.
+This Python script generates a battery report in WINDOWS using `powercfg` and parses it to display relevant information such as report date, time, designed capacity, full charge capacity, and battery health percentage.
 
 ## Prerequisites
 
