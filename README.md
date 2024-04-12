@@ -10,14 +10,17 @@ This Python script generates a battery report using `powercfg` and parses it to 
 ## Usage
 
 1. Clone the repository:
+   
 git clone https://github.com/Osama-Alathwari/Battery_Report_Generator.git
 
 
-2. Navigate to the project directory:
+3. Navigate to the project directory:
+   
 cd Battery_Report_Generator
 
 
-3. Run the script:
+5. Run the script:
+
 python main.py
 
 
